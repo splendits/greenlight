@@ -246,6 +246,8 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
+    group: "Com Chor Berlin"
+    inspired_by: "Inspired by %{href}. "
     powered_by: Powered by %{href}.
   forgot_password:
     subtitle: Forgot Password
@@ -276,9 +278,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    about: "%{href} (splendid digitals) Web Conference is a non-profit BIPoC project to primarily support BIPoC communities with privacy friendly & easy to use tech solutions during Covid-19. This website is built on BigBlueButton and Greenlight and a free and open source platform for presentations, workshops, webinars, collaborations &  more."
+    welcome: Splendits Web Conference
+    video: Watch and learn more how to use Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
